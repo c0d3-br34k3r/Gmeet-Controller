@@ -1,3 +1,4 @@
+import * as tf from '@tensorflow/tfjs';
 import * as tmPose from '@teachablemachine/pose';
 
 const gmeet_url = "https://meet.google.com/*";
