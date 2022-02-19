@@ -1,3 +1,5 @@
+import * as tmPose from '@teachablemachine/pose';
+
 const gmeet_url = "https://meet.google.com/*";
 const loadMeet_url = "/loadMeet.js";
 const URL = "https://teachablemachine.withgoogle.com/models/0pFxyYiDE/";
