@@ -1,14 +1,14 @@
-.ecVYYe,
-.W0LGoe,
-.qOJvbb+img
+.kDMHIe,
+.kBY5o,
+.YkXoSe
 {
     filter: blur(10px) grayscale(1);
     transition-duration: 0ms;
 }
 
-.ecVYYe:hover,
-.W0LGoe:hover,
-.qOJvbb+img:hover
+.kDMHIe:hover
+.kBY5o:hover
+.YkXoSe:hover
 {
     filter: blur(0) grayscale(0);
     transition-duration: 0.3ms;

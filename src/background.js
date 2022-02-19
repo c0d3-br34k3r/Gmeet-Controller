@@ -1,5 +1,3 @@
-const gmeet_url = "https://meet.google.com/*";
-const loadMeet_url = "/loadMeet.js";
 const URL = "https://teachablemachine.withgoogle.com/models/0pFxyYiDE/";
 let model, webcam, ctx, labelContainer, maxPredictions;
 
@@ -97,6 +95,8 @@ document.body.appendChild(webcamContainer);
 
 init();
 
+const gmeet_url = "https://meet.google.com/*";
+const loadMeet_url = "/loadMeet.js";
 chrome.runtime.onInstalled.addListener(function (details) {
     chrome.storage.sync.get([
         'mainButton',
