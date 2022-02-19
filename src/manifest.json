@@ -1,0 +1,46 @@
+{
+    "name": "Gmeet_Controller",
+    "description": "An extension to control Google Meet Actions using hand/facial gestures and also maintain privacy.",
+    "permissions": ["activeTab", "storage","<all_urls>", "https://*/", "tabs", "notifications"],
+    "version": "1.0.0",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "web_accessible_resources": [
+      "popup/popup.css",
+      "css/gmeet_messages.css",
+      "css/gmeet_badge.css",
+      "css/gmeet_participants.css",
+      "css/gmeet_entry.css",
+      "css/gmeet_video.css"    
+    ],
+    "content_scripts": [
+     {
+       "matches": ["https://meet.google.com/*"],
+       "js": [
+         "loadMeet.js",
+         "tf.min.js",
+         "teachablemachine-pose.min.js",
+         "background.js"]
+     }
+    ],
+    "browser_action": {
+     "default_title": "Privacy extension for your video calls",
+     "default_popup": "popup/popup.html"
+    },
+    "commands": {
+      "toggle": {
+        "suggested_key": {
+          "default": "Alt+X"
+        },
+        "description": "Toggle On/Off"
+      }
+    },
+    "icons": { 
+      "128": "images/icon128.png" 
+    },
+    
+    "manifest_version": 2
+}
+  
