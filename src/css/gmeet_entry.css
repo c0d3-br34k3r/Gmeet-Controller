@@ -1,14 +1,20 @@
 .kDMHIe,
 .kBY5o,
-.YkXoSe
+.YkXoSe,
+.iLNCXe,
+.aGJE1b,
+.M6tHv
 {
     filter: blur(10px) grayscale(1);
     transition-duration: 0ms;
 }
 
-.kDMHIe:hover
-.kBY5o:hover
-.YkXoSe:hover
+.kDMHIe:hover,
+.kBY5o:hover,
+.YkXoSe:hover,
+.iLNCXe:hover,
+.aGJE1b:hover,
+.M6tHv:hover
 {
     filter: blur(0) grayscale(0);
     transition-duration: 0.3ms;
