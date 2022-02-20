@@ -38,9 +38,9 @@ To make it accessible even quicker, all you need to do is **toggle the extension
 
 Now coming to the part when we are taking important notes or someone random just comes to meet you suddenly while your online classes or lets say you important conference call is going on. Instead of taking the pain to access your keyboard and mouse what if the **computer itself understands the situation through gestures and turns off your video and mic.** Won't it be Awesome?
 
-## For detailed explanation of the Project and How to use it just click the link below 😍
+## For detailed explanation of the Project and How to use it just click the Youtube Image below 😍
 
-[![Gmeet Controller](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
+[![Gmeet Controller](src/images/yt.jpg)](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
 
 
 ## How to setup and start using the extension ? ⚙️
