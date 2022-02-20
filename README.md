@@ -28,7 +28,7 @@ Now, you can't really change the people around you.
 
 See? Simple!
 
-![Gmeet Controller](src/images/1.jpg)
+[![Gmeet Controller](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
 
 All the available solutions are either not **really the best ones or not affordable**, so why not identify certain points of senstivity in the video conferencings websites like **Gmeet**, which we have handled specifically in this project and simply **blur the senstives information areas**.
 
