@@ -1,15 +1,15 @@
 # Gmeet Controller
 
-## Too Long to read?
-Gesture control in google meet along with a handy anti-snooping, pro privacy, browser extension to save you from everyone peeping into your screen during important meetings.
+## Too Long to read? 😏
+Gesture control in google meet along with a handy anti-snooping, pro privacy, browser extension to save you from everyone peeping into your screen during important meetings.🤯
 
-People are working from home, correct?
+People are working from home🏠, correct?
 
-**But what about the privacy of those who are working from public places**
+**But what about the privacy of those who are working from public places**👨‍💻
 
-Not really private right?. 
+Not really private right?.🤕
 
-Imagine...
+## Imagine...😈
 
 **A meeting going on in public place**
 - Working in a cafe or in a metro with your masks and earphones on.
@@ -23,7 +23,7 @@ Imagine...
 Now, you can't really change the people around you. 
 **But you can definitely change your meeting** ❤️
 
-## The solution 👩‍🏫
+## The solution 😎
 **Gmeet Controller**, A browser extension which has gesture control blurs out sensitive information zones in the gmeet and reveals them on hovering. see? simple!
 
 ![Gmeet Controller](src/images/1.jpg)
