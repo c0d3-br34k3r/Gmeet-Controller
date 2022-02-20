@@ -3,7 +3,7 @@
 ## Too Long to read? 😏
 Gesture control in google meet along with a handy anti-snooping, pro privacy, browser extension to save you from everyone peeping into your screen during important meetings.🤯
 
-People are working from home🏠, correct?
+People are working from home🏠 Correct?
 
 **But what about the privacy of those who are working from public places**👨‍💻
 
