@@ -24,7 +24,9 @@ Now, you can't really change the people around you.
 **But you can definitely change your meeting** ❤️
 
 ## The solution 😎
-**Gmeet Controller**, A browser extension which has gesture control blurs out sensitive information zones in the gmeet and reveals them on hovering. see? simple!
+**Gmeet Controller**, A browser extension which has gesture control blurs out sensitive information zones in the gmeet and reveals them on hovering. 
+
+See? Simple!
 
 ![Gmeet Controller](src/images/1.jpg)
 
