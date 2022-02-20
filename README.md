@@ -28,7 +28,7 @@ Now, you can't really change the people around you.
 
 See? Simple!
 
-[![Gmeet Controller](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
+![Gmeet Controller](src/images/1.jpg)
 
 All the available solutions are either not **really the best ones or not affordable**, so why not identify certain points of senstivity in the video conferencings websites like **Gmeet**, which we have handled specifically in this project and simply **blur the senstives information areas**.
 
@@ -40,7 +40,7 @@ Now coming to the part when we are taking important notes or someone random just
 
 ## For detailed explanation of the Project and How to use it just click the link below 😍
 
-![Youtube Link](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
+[![Gmeet Controller](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
 
 
 ## How to setup and start using the extension ? ⚙️
