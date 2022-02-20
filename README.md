@@ -40,8 +40,7 @@ Now coming to the part when we are taking important notes or someone random just
 
 ## For detailed explanation of the Project and How to use it just click the Youtube Image below 😍
 
-[![Gmeet Controller](src/images/yt
-.jpg)](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
+[![Gmeet Controller](src/images/yt.jpg)](https://www.youtube.com/watch?v=tEu2qCL6jko&t=2s&ab_channel=InvincibleLearner)
 
 
 ## How to setup and start using the extension ? ⚙️
