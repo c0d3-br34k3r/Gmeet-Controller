@@ -31,7 +31,7 @@ function Audio(probability) {
         const audioButton = document.querySelectorAll(".VfPpkd-Bz112c-LgbsSe.yHy1rc.eT1oJ.tWDL4c.uaILN")[0];
         if (audioButton.classList.contains("HNeRed")) {
             audioButton.click();
-            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Microphone Turned Off'));
+            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Microphone Off'));
         }
     }
 }
@@ -41,7 +41,7 @@ function Video(probability) {
         const videoButton = document.querySelectorAll(".VfPpkd-Bz112c-LgbsSe.yHy1rc.eT1oJ.tWDL4c.uaILN")[1];
         if (videoButton.classList.contains("HNeRed")) {
             videoButton.click();
-            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Camera Turned Off'));
+            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Camera Off'));
         }
     }
 }
@@ -52,11 +52,11 @@ function Escape(probability) {
         const Button1 = document.querySelectorAll(".VfPpkd-Bz112c-LgbsSe.yHy1rc.eT1oJ.tWDL4c.uaILN")[1];
         if (Button0.classList.contains("HNeRed")) {
             Button0.click();
-            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Microphone Turned Off'));
+            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Microphone Off'));
         }
         if (Button1.classList.contains("HNeRed")) {
             Button1.click();
-            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Camera Turned Off'));
+            window.speechSynthesis.speak(new SpeechSynthesisUtterance('Camera Off'));
         }
     }
 }
